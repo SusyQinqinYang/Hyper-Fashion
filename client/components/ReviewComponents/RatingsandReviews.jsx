@@ -29,11 +29,13 @@ const RatingsandReviews = (props) => {
         position: "relative",
         flexDirection: "column",
         display: "flex",
-        left: "14rem",
-        marginRight: "20%",
+        // left: "14rem",
+        // marginRight: "20%",
+        width: '80%',
+        margin: '0px auto',
       }}
     >
-      <div className="flex-container review">
+      <div className="flex-container review" >
         <div className="flex-container ratinginfo">
           <h1 style={{ fontSize: 20, fontWeight: 'bold', height: 30 }}>
             RATING & REVIEWS

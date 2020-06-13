@@ -128,6 +128,7 @@
 .flex-container.ratinginfo {
   display: flex;
   flex-direction: column;
+  width: 35%;
 }
 
 .overallspacerdiv {
@@ -138,8 +139,9 @@
 .reviewList-full {
   display: flex;
   flex-grow: 1;
-  flex-basis: 66%;
+  /* flex-basis: 66%; */
   margin-top: -48px;
+  width: 60%;
 }
 
 .wholereviewlist {
