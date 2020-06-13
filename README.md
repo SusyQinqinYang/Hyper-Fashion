@@ -54,4 +54,6 @@ This can be deployed using AWS.
 - **Susy(Qinqin) Yang**
 
 ## Demo
-[![Watch the demo video](http://g.recordit.co/ypBxbhFAo6.gif)](https://vimeo.com/428809622)
+
+Please click below for demo video:
+[![Watch the demo video](http://g.recordit.co/fRBBDhKyis.gif)](https://vimeo.com/428809622)
