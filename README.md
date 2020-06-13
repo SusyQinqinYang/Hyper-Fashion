@@ -55,5 +55,5 @@ This can be deployed using AWS.
 
 ## Demo
 
-Please click below for demo video:
+**Please click below for demo video:**
 [![Watch the demo video](http://g.recordit.co/fRBBDhKyis.gif)](https://vimeo.com/428809622)
