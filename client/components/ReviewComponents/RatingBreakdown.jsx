@@ -56,6 +56,7 @@ const RatingBreakdown = (props) => {
         <div
           className={bar.includes(5) ? "starrating-clicked" : "starrating"}
           onClick={(event) => updateFilter(event, 5)}
+          style={{ marginRight: "5px", zIndex: 2 }}
         >
           5 stars
         </div>
@@ -71,6 +72,7 @@ const RatingBreakdown = (props) => {
           // className="starrating"
           className={bar.includes(4) ? "starrating-clicked" : "starrating"}
           onClick={(event) => updateFilter(event, 4)}
+          style={{ marginRight: "5px", zIndex: 2 }}
         >
           4 stars
         </div>
@@ -85,6 +87,7 @@ const RatingBreakdown = (props) => {
         <div
           className={bar.includes(3) ? "starrating-clicked" : "starrating"}
           onClick={(event) => updateFilter(event, 3)}
+          style={{ marginRight: "5px", zIndex: 2 }}
         >
           3 stars
         </div>
@@ -99,6 +102,7 @@ const RatingBreakdown = (props) => {
         <div
           className={bar.includes(2) ? "starrating-clicked" : "starrating"}
           onClick={(event) => updateFilter(event, 2)}
+          style={{ marginRight: "5px", zIndex: 2 }}
         >
           2 stars
         </div>
@@ -113,6 +117,7 @@ const RatingBreakdown = (props) => {
         <div
           className={bar.includes(1) ? "starrating-clicked" : "starrating"}
           onClick={(event) => updateFilter(event, 1)}
+          style={{ marginRight: "5px", zIndex: 2 }}
         >
           1 stars
         </div>
